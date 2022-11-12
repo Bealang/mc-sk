@@ -7,3 +7,5 @@ Wszystkie skrypty znajdują się tu -> https://biscraft.pl/techniczne/skrypty
 
 Język, w którym był pisany program: C++
 Nie jestem wybitnym programistą - z góry mówię :<.
+
+Aby pobrać, wejdź tutaj. https://github.com/Bealang/mc-sk/releases
